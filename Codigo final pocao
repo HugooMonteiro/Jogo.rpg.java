@@ -1,0 +1,10 @@
+public class Pocao {
+    
+    int pocoesDisponiveis;
+    
+    public Pocao(int pocoesDisponiveis){
+        
+        this.pocoesDisponiveis = pocoesDisponiveis;
+    }
+    
+}
